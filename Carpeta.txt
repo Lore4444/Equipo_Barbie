@@ -1,2 +1,7 @@
 Probando crear una carpeta
+<<<<<<< HEAD
 Probando crear una carpeta 2
+=======
+Segunda prueba
+>>>>>>> 81e5aa994ff7c5ced98f79276f39845710a1ee33
+adan deja de molestaaaaaar
